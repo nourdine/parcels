@@ -1,6 +1,5 @@
 <?php
 
-
 namespace parcels;
 
 use parcels\DataParcel;
