@@ -1,0 +1,21 @@
+{
+   "name": "nourdine/parcels",
+   "type": "library",
+   "description": "A bunch of classes to manage client-sever communication in JSON format",
+   "keywords": ["json"],
+   "license": "GNU GPL v3",
+   "authors": [
+      {
+         "name": "fabs aka (nourdine)",
+         "email": "admin@nourdine.net"
+      }
+   ],
+   "require": {
+      "php": ">=5.3"
+   },
+   "autoload": {
+      "psr-0": {
+         "parcels": "src/"
+      }
+   }
+}
