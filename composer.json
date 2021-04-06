@@ -3,6 +3,7 @@
    "type": "library",
    "description": "A bunch of classes to manage client-sever communication in JSON format",
    "keywords": ["json"],
+   "license": "MIT",
    "authors": [
       {
          "name": "fabs aka (nourdine)"
